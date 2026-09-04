@@ -6,6 +6,8 @@
 
 [최신 설치파일 받기](https://github.com/contentriumkorea/frame-fixer-releases/releases/latest)에서 `FrameFixer-버전-Setup.exe`를 받으세요. `release-manifest.json`과 `.sig`는 앱 업데이트 검증용이므로 따로 열 필요가 없습니다.
 
+**1.0.5 설치가 ‘Video tools could not be prepared’로 멈췄다면 1.0.6 이상 설치파일을 새로 받아 실행하세요.** 1.0.5의 보안 통신 설정과 한글 오류 표시 문제를 수정했습니다. 기존 1.0.5 앱의 업데이트 확인도 연결에 실패할 수 있으므로, 이 경우 위 링크에서 직접 받으세요. 보안 설정을 끄거나 별도 영상 도구를 수동 설치할 필요는 없습니다.
+
 - Windows 10/11 x64, .NET Framework 4.8 이상이 필요합니다.
 - **최초 설치에는 인터넷이 필요합니다.** 설치 중 필요한 FFmpeg/FFprobe를 공급처에서 자동으로 다운로드하고 검증·연결합니다. 별도 다운로드 버튼이나 폴더 선택은 필요하지 않습니다.
 - 설치 후에는 오프라인에서도 변환할 수 있습니다. 정상적인 기존 도구 설정은 재사용합니다.
